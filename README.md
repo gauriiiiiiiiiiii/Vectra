@@ -12,7 +12,6 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 ## InterFace
 ![Logo](screenshots/s1.png)
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -24,14 +23,17 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/code-scannner/VisualizerTool.git
+   git clone https://github.com/gauriiiiiiiiiiii/Vectra
    ```
    
 2. Install [gtk-3.0]("https://www.gtk.org/docs/installations/") into your system. (Windows and Ubuntu has to be installed differently).
 
 3. Install [VS-Code](https://code.visualstudio.com/) for executing build command.
 
-4. Move to cloned directory *VisualizerTool* and run build commands using shortcut **Ctrl + Shift + B**.
+4. Move to cloned directory *Vectra* and run build commands using shortcut **Ctrl + Shift + B**.
 
 5. Run the generated **main.exe** file.
   
+## Terminal Commands Used
+
+![Commands to Run](screenshots/Commands%20to%20Run.png)
