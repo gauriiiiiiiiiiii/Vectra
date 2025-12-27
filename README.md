@@ -36,4 +36,4 @@ A powerful Visualization tool that allows users to draw various shapes based on 
   
 ## Terminal Commands Used
 
-![Commands to Run](screenshots/Commands%20to%20Run.png)
+![Commands to Run](screenshots/CommandsToRun.png)
